@@ -6,7 +6,7 @@ The Caption Scraper takes the YouTube video URL as the input and returns a text 
 
 1. **URL Finder :** Takes input of the search string 's' or Hash-Tag 'h' and number of videos to scrape 'n'. It uses web scrapping to search the string on YouTube and outputs list of video URLs shown by YouTube search engine.
 
-2. **Info Scraper:** Takes input of a video URL 'v'. It uses web scrapping to search the video and collect following information:       
+2. **Info Scraper :** Takes input of a video URL 'v'. It uses web scrapping to search the video and collect following information:       
     
     a. Title
     
@@ -18,7 +18,9 @@ The Caption Scraper takes the YouTube video URL as the input and returns a text 
     
     e. Number of Comments
     
-3. **Comments Scraper :** Takes input of a video URL 'v' and number of comments to scrape 'n_c'. It uses web scrapping to search the video and collect top 'n_c' number of text comments.
+3. **Caption Scraper :** Takes the YouTube video URL as the input and returns a text file containing captions as the output
+
+4. **Comments Scraper :** Takes input of a video URL 'v' and number of comments to scrape 'n_c'. It uses web scrapping to search the video and collect top 'n_c' number of text comments.
 
 
 ## Files Information
