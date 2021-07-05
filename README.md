@@ -1,6 +1,6 @@
 # YT-Misinformation
 
-The Caption Scraper takes the YouTube video URL as the input and returns a text file containing captions as the output. It uses YouTube-Caption-API to get the subtitles of the video. If the subtitles are not present in English, it translates the available subtitles to English. If the channel does not provide the manual subtitles, it uses YouTube's auto-captions feature to get subtitles.
+The Caption Scraper takes the YouTube video ID as the input and returns a string caption as the output. It uses YouTube-Caption-API to get the subtitles of the video. If the subtitles are not present in English, it translates the available subtitles to English. If the channel does not provide the manual subtitles, it uses YouTube's auto-captions feature to get subtitles.
 
 
 ## Files Information
