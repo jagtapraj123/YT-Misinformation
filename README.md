@@ -7,7 +7,7 @@ Jagtap, Raj, Abhinav Kumar, Rahul Goel, Shakshi Sharma, Rajesh Sharma, and Clint
 
 ### BibTex:
 
-@article"jagtap2021misinformation,
+@article{jagtap2021misinformation,
 
   title={Misinformation Detection on YouTube Using Video Captions},
   
